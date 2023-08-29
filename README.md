@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="150" src="[https://lottiefiles.com/animations/coding-NWhbxMOVgP](https://github.com/MrSobirov/MrSobirov/blob/main/animation_llvy5hcl.json)"  />
-</div>
-
 ###
 
 <div align="center">
